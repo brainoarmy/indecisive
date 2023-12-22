@@ -3,10 +3,10 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 300,
+        "HideIconAfter": 30,
         "IconURL": "https://i.imgur.com/OZ6xOjY.png",
         "DisableIconText": false,
-        "IconPosition": 0,
+        "IconPosition": 3,
         "IconTextColor": 0,
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
