@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Settings",
           "title1": "Server INI settings:",
-          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5.0)\n-Global Xp Multiplier = 2.5\n-Taming Multiplier = 2.5\n-Harvesting Multiplier = 2.5\n-Imprint Ammount Multiplier = 2.5\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Baby Growth Multiplier = 4\n-Mating Interval = 0.25 (4x)",
+          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5)\n-Global Xp = 2.5x\n-Taming = 2.5x\n-Harvesting = 2.5x\n-Imprint Ammount = 2.5x\n-Baby Growth = 4x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Global Spoil/Decompostion/Corpse time = 2.5x\n-Player, wild and tamed weigth = 5x",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
