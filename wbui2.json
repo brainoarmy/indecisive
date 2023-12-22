@@ -8,7 +8,7 @@
         "DisableIconText": false,
         "IconPosition": 2,
         "IconTextColor": 0,
-        "OpenOnStart": False,
+        "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 24
       },
