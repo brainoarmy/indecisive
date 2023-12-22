@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Server Settings",
           "title1": "Server INI settings:",
-          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5)\n-Global Xp = 2.5x\n-Taming = 2.5x\n-Harvesting = 2.5x\n-Global Spoil/Decompostion/Corpse time = 2.5x\n-Crop Growth/Decay = 2.5x\n-Imprint Ammount = 2.5x\n-Baby Growth = 4x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Player, wild and tamed weight = 5x\n-Structure Force Locking enabled\n-Damage Numbers = on\n-Under Mesh Checking = off (do read the pve rules on welcome screen)\n-Dino & Structure Decay = off (if server becomes laggy or overpopulated will enable with some warning time)\n-Leeds & Alpha Leeds are removed (Alpha Tek Cave tributes adjusted to accommodate)\n-Multipul Unicorns Enabled\n-Titanosaur Feeding Enabled\n-Titanosaur Food Drain = 0.01 (100x slower)\n-Indy Cooker; all dye engrams adjusted to allow autocrafting to function as in ASE",
+          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5)\n-Global Xp = 2.5x\n-Taming = 2.5x\n-Harvesting = 2.5x\n-Global Spoil/Decompostion/Corpse time = 2.5x\n-Crop Growth/Decay = 2.5x\n-Imprint Ammount = 2.5x\n-Baby Growth = 4x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Tribe Imprint = On\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Player, wild and tamed weight = 5x\n-Structure Placement Collision = Off\n-Force Structure Locking = On\n- Flyer Carry = On\n-PvE Cave Building = On (do read the PvE rules on welcome screen)\n-Damage Numbers = On\n-Under Mesh Checking = Off (do read the PvE rules on welcome screen)\n-Dino & Structure Decay = Off (if server becomes laggy or overpopulated will enable with some warning time)\n-Leeds & Alpha Leeds = Off (Alpha Tek Cave tributes adjusted to accommodate)\n-Multipul Unicorns = On\n-Titanosaur Feeding = On\n-Titanosaur Food Drain = 0.01 (100x slower)\n-Indy Cooker; all dye engrams adjusted to allow autocrafting to function as in ASE\n-Auto Unlock Engrams Tek Binoculars(60),Tek Mini-Teleporters(60)\n-PvE",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
       },
@@ -38,7 +38,7 @@
           "title1": "Taming Related Settings:",
           "text1": "-Taming = 2.5x\n-Food Drain = 1x (default)",
           "title2": "Breeding Related Settings:",
-          "text2": "-Baby Growth = 4x\n-Food Drain = 1x (default)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Imprint Ammount = 2.5x\n-Baby Cuddle Interval = 0.24 (4.166x)",
+          "text2": "-Baby Growth = 4x\n-Food Drain = 1x (default)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Imprint Ammount = 2.5x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Tribe Imprinting = On",
 "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
         }
