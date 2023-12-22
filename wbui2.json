@@ -25,10 +25,20 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "Settings",
+          "buttontext": "Server Settings",
           "title1": "Server INI settings:",
-          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5)\n-Global Xp = 2.5x\n-Taming = 2.5x\n-Harvesting = 2.5x\n-Imprint Ammount = 2.5x\n-Baby Growth = 4x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Global Spoil/Decompostion/Corpse time = 2.5x\n-Player, wild and tamed weigth = 5x",
+          "text1": "-Max Wild Lv 150 (OverrideOfficialDifficulty=5)\n-Global Xp = 2.5x\n-Taming = 2.5x\n-Harvesting = 2.5x\n-Global Spoil/Decompostion/Corpse time = 2.5x\n-Crop Growth/Decay = 2.5x\n-Imprint Ammount = 2.5x\n-Baby Growth = 4x\n-Baby Cuddle Interval = 0.24 (4.166x)\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Player, wild and tamed weight = 5x",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+ {
+        "tab3": {
+          "layout": 2,
+          "buttontext": "Taming & Breeding",
+          "title1": "Taming Related Settings:",
+          "text1": "-Taming = 2.5x\n-Food Drain = 1x (default)",
+          "title2": "Breeding Related Settings:",
+          "text2": "-Baby Growth = 4x\n-Mating Interval = 0.25 (4x)\n-Mating Speed = 10x\n-Egg Incubation/Gestation = 10x\n-Imprint Ammount = 2.5x\n-Baby Cuddle Interval = 0.24 (4.166x)",
+"imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
     ],
@@ -41,14 +51,14 @@
       },
       {
         "link2": {
-          "text": "WBUI2 Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Taming Tool",
+          "url": "https://www.dododex.com/"
         }
       },
       {
         "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+          "text": "Breeding Tool",
+          "url": "http://ark.crumplecorn.com/breeding/"
         }
       },
     ]
