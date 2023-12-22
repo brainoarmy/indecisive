@@ -13,12 +13,12 @@
         "UpdateInterval": 12
       },
     "tabs": [
-      {
+       {
         "tab1": {
           "layout": 1,
           "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
-          "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
+          "title1": "Welcome to Indecisive PvE ARK!",
+          "text1": "This is a no Wipe Server; If server is to wipe due to unforeseen circumstances, server saves will be uploaded to public drop box\n\n\n\nPvE Server rules:\n-Cave building is allowed, but artifacts must be accessible in someway (walk through or powered public Mini-Teleporters)\n-Spam to prevent other players expanding is considered grifing and will be delt with accordingly\n Speedhacking and meshed bases will result in adminwipe and ban",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
